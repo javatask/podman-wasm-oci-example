@@ -10,7 +10,7 @@ This directory contains a complete end-to-end demonstration of building, packagi
 
 ## Quick Start
 
-See the complete walkthrough in the article: <URL>
+See the complete walkthrough in the article: https://github.com/javatask/podman-wasm-oci-example/blob/main/tutorial.md
 
 ## Build Locally
 
